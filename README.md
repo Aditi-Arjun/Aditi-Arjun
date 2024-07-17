@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditi Chavan</h1>
 <h3 align="center">A 4th Year AI and Data Science Learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiarjun&label=Profile%20views&color=0e75b6&style=flat" alt="aditiarjun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditiarjun" alt="aditiarjun" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 🔭 I’m currently working on **Python**
 
